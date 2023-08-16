@@ -17,7 +17,7 @@ Homepage :
 
 Tickets :
 
-	- When submitting a form all fields in all tabs become required. Each form should submit separate.
+	- When submitting a form all fields in all tabs become required. Each form should submit separate ?.
 
 Submit-ideas : 
 	Nothing so far
@@ -31,3 +31,6 @@ Settings (My-Profile)
 	- 10 OF 15 ASSIGNED CONTENT COMPLETED hard coded
 	- badges earned not showing
 	- MY INTERESTS | COMPETENCIES | HARD SKILLS -> hard coded values
+Guided Help
+
+	- Live chat not working
